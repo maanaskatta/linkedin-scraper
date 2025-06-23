@@ -1,5 +1,5 @@
 import cron from "node-cron";
-import scrapeLinkedInJobs from "./scrapper";
+import scrapeLinkedInJobs from "./scrapper.js";
 
 console.log("🟢 Scheduler started. Running every 1 hour.");
 
