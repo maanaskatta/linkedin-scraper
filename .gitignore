@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# dotenv environment files
+.env
+
+# Playwright downloads (browsers etc.)
+.playwright/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Output
+dist/
+coverage/
