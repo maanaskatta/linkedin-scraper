@@ -114,4 +114,4 @@ async function scrapeLinkedInJobs() {
   }
 }
 
-scrapeLinkedInJobs();
+export default scrapeLinkedInJobs;
